@@ -11,7 +11,7 @@ collections:
 description: 'I like developing
 
 '
-baseurl: "/evanwaltersdev.github.io"
+baseurl: "/"
 url: https://evanwaltersdev.github.io/
 permalink: "/:year/:month/:day/:title"
 repository: evanwaltersdev/evanwaltersdev.github.io
